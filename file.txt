@@ -1,4 +1,4 @@
 #include<iostream.h>
 void main()
-{ cout<<"Hey, This is YK47";
+{ cout<<"Hello, This is YK47";
 }
